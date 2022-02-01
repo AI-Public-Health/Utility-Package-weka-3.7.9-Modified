@@ -1,0 +1,28 @@
+-classpath
+'/Users/jiajunshang/Downloads/backup/Ye_Ye_code/weka-3.7.9-YeExperiment/build/classes:/Users/jiajunshang/.m2/repository/org/pentaho/pentaho-commons/pentaho-package-manager/1.0.6/pentaho-package-manager-1.0.6.jar:/Users/jiajunshang/.m2/repository/net/sf/squirrel-sql/thirdparty-non-maven/java-cup/0.11a/java-cup-0.11a.jar'
+-encoding
+'UTF-8'
+-public
+-source
+'8'
+-sourcepath
+'/Users/jiajunshang/Downloads/backup/Ye_Ye_code/weka-3.7.9-YeExperiment/src/main/java'
+-subpackages
+weka:org
+-author
+-bottom
+'Copyright &#169; 2022 <a href="http://www.waikato.ac.nz/">University of Waikato, Hamilton, NZ</a>. All Rights Reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/jiajunshang/Downloads/backup/Ye_Ye_code/weka-3.7.9-YeExperiment/doc'
+-docencoding
+'UTF-8'
+-doctitle
+'weka-dev 3.7.9-SNAPSHOT API'
+-linkoffline
+'http://download.oracle.com/javase/6/docs/api' '/Users/jiajunshang/Downloads/backup/Ye_Ye_code/weka-3.7.9-YeExperiment/dist/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'weka-dev 3.7.9-SNAPSHOT API'
