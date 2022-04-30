@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="dist/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="weka-dev" />
+        <module name="Utility-Package-weka-3.7.9-Modified" />
       </profile>
     </annotationProcessing>
   </component>

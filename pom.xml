@@ -8,6 +8,14 @@
   <version>3.7.9-SNAPSHOT</version><!-- weka-version -->
   <packaging>jar</packaging>
 
+  <distributionManagement>
+    <repository>
+      <id>github</id>
+      <name>GitHub Packages</name>
+      <url>https://maven.pkg.github.com/AI-Public-Health/EDGrviz</url>
+    </repository>
+  </distributionManagement>
+
   <name>weka-dev</name>
   <description>The Waikato Environment for Knowledge Analysis (WEKA), a machine 
   learning workbench. This version represents the developer version, the
@@ -35,14 +43,7 @@
     </developer>
   </developers>
 
-  <mailingLists>
-    <mailingList>
-      <name>wekalist</name>
-      <subscribe>https://list.scms.waikato.ac.nz/mailman/listinfo/wekalist</subscribe>
-      <unsubscribe>https://list.scms.waikato.ac.nz/mailman/listinfo/wekalist</unsubscribe>
-      <archive>https://list.scms.waikato.ac.nz/mailman/htdig/wekalist/</archive>
-    </mailingList>
-  </mailingLists>
+
 
   <parent>
     <groupId>org.sonatype.oss</groupId>
@@ -50,11 +51,7 @@
     <version>7</version>
   </parent>
 
-  <scm>
-    <connection>scm:svn:https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka</connection>
-    <developerConnection>scm:svn:https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka</developerConnection>
-    <url>https://svn.cms.waikato.ac.nz/svn/weka/trunk/weka</url>
-  </scm>
+
 
   <profiles>
     <profile>
