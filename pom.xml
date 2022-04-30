@@ -5,14 +5,14 @@
 
   <groupId>nz.ac.waikato.cms.weka</groupId>
   <artifactId>weka-dev</artifactId>
-  <version>3.7.9-SNAPSHOT</version><!-- weka-version -->
+  <version>3.7.9-demo</version><!-- weka-version -->
   <packaging>jar</packaging>
 
   <distributionManagement>
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/AI-Public-Health/EDGrviz</url>
+      <url>https://maven.pkg.github.com/AI-Public-Health/</url>
     </repository>
   </distributionManagement>
 
