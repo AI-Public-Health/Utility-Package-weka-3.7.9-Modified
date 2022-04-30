@@ -12,7 +12,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/AI-Public-Health/</url>
+      <url>https://maven.pkg.github.com/AI-Public-Health/Utility-Package-weka-3.7.9-Modified</url>
     </repository>
   </distributionManagement>
 
@@ -205,6 +205,8 @@
             <systemPropertyVariables>
               <weka.test.Regression.root>src/test/resources/wekarefs</weka.test.Regression.root>
             </systemPropertyVariables>
+            <skipTests>true</skipTests>
+
           </configuration>
         </plugin>
 
