@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>nz.ac.waikato.cms.weka</groupId>
+  <artifactId>weka-dev</artifactId>
+  <versioning>
+    <release>3.7.9-demo</release>
+    <versions>
+      <version>3.7.9-demo</version>
+    </versions>
+    <lastUpdated>20220504004435</lastUpdated>
+  </versioning>
+</metadata>
